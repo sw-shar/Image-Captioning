@@ -8,12 +8,12 @@ Original file is located at
 """
 
 __author__ = 'tylin'
-from ptbtokenizer import PTBTokenizer
+from utils.ptbtokenizer import PTBTokenizer
 
-from bleu import Bleu
-from meteor import Meteor
-from rouge import Rouge
-from cider import Cider
+from utils.bleu import Bleu
+from utils.meteor import Meteor
+from utils.rouge import Rouge
+from utils.cider import Cider
 
 class COCOEvalCap:
     def __init__(self, coco, cocoRes):
