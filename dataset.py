@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 
-from utils.coco.coco import COCO
+from utils.coco import COCO
 from utils.vocabulary import Vocabulary
 
 class DataSet(object):
