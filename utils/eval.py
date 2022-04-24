@@ -10,7 +10,7 @@ Original file is located at
 __author__ = 'tylin'
 from utils.ptbtokenizer import PTBTokenizer
 
-from .utils.bleu import Bleu
+from utils.bleu import Bleu
 from utils.meteor import Meteor
 from utils.rouge import Rouge
 from utils.cider import Cider
