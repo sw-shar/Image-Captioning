@@ -19,3 +19,8 @@
 Дополнительно нужно скачать:
 * https://yadi.sk/d/b4nAwIE73TVcp5 векторизованые изображения MSCOCO17
 * https://app.box.com/s/xuigzzaqfbpnf76t295h109ey9po5t8p - предобученную модель с конфигурацией
+
+
+Использовано:
+* https://github.com/yandexdataschool
+* https://github.com/DeepRNN/image_captioning
